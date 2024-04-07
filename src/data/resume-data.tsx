@@ -139,8 +139,8 @@ export const RESUME_DATA = {
       link: {
         label: "CC eInvoicing Label",
         href: "https://www.google.es/",
-      },
-      {
+      }},
+    {
       title: "Kaggle Competitions",
       techStack: [
         "Deep Learning",
