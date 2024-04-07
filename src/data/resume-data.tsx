@@ -25,9 +25,9 @@ export const RESUME_DATA = {
   location: "Barcelona, Spain, CET",
   locationLink: "https://www.google.com/maps/place/Barcelona",
   about:
-    "Aspiring Data Scientist",
+    "Aspiring Machine Learning Engineer",
   summary:
-    "Aspiring Data Scientist with a solid academic foundation, passionate about leveraging AI and data to drive decision-making. Currently seeking opportunities to apply my skills in Deep Learning and predictive modeling to generate actionable insights and influence business outcomes with data-driven strategies.",
+    "Aspiring Machine Learning Engineer with a solid academic foundation, passionate about leveraging AI and data to drive decision-making. Currently seeking opportunities to apply my skills in Deep Learning and predictive modeling to generate actionable insights and influence business outcomes with data-driven strategies.",
   avatarUrl: "https://media.licdn.com/dms/image/D4D03AQG0au-qTy-AZw/profile-displayphoto-shrink_800_800/0/1690399114062?e=1718236800&v=beta&t=dBAEryqYMtGxio8mGAzXp6xWcIMTgTeRTbQYHEP9QOs",
   personalWebsiteUrl: "https://www.google.es",
   contact: {
