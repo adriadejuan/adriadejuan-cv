@@ -20,43 +20,68 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  name: "Adrià de Juan García",
+  initials: "AJG",
+  location: "Barcelona, Spain, CET",
+  locationLink: "https://www.google.com/maps/place/Barcelona",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "TBC",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+    "TBC",
+  avatarUrl: "https://media.licdn.com/dms/image/D4D03AQG0au-qTy-AZw/profile-displayphoto-shrink_800_800/0/1690399114062?e=1718236800&v=beta&t=dBAEryqYMtGxio8mGAzXp6xWcIMTgTeRTbQYHEP9QOs",
+  personalWebsiteUrl: "https://www.google.es",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "adriadejuan22@gmail.com",
+    tel: "+34633227327",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/adriadejuan",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/adriadejuan/",
         icon: LinkedInIcon,
-      },
-      {
-        name: "X",
-        url: "https://x.com/BartoszJarocki",
-        icon: XIcon,
       },
     ],
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "laSalle - Universitat Ramón Llull",
+      degree: "Master of Science - Data Science",
+      start: "2023",
+      end: "2024",
+    },
+    {
+      school: "Universitat de Barcelona",
+      degree: "Bachelor of Science - Mathematics",
+      start: "2017",
+      end: "2021",
+    },
+    {
+      school: "University of Warwick",
+      degree: "Bachelor of Science - Mathematics",
+      start: "2020",
+      end: "2021",
+    },
+    {
+      school: "OAK House British School",
+      degree: "High School",
+      start: "2013",
+      end: "2016",
+    },
+    {
+      school: "Saint George's School",
+      degree: "Primary School",
+      start: "2000",
+      end: "2013",
+    },
+    
+      school: "Universitat de Girona",
+      degree: "Bachelor of Science - Computer Science",
+      start: "2016",
+      end: "2017",
     },
   ],
   work: [
