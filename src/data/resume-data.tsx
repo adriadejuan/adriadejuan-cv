@@ -77,7 +77,7 @@ export const RESUME_DATA = {
       start: "2000",
       end: "2013",
     },
-    
+    {
       school: "Universitat de Girona",
       degree: "Bachelor of Science - Computer Science",
       start: "2016",
