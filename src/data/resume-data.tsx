@@ -130,13 +130,13 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "JavaScript",
-    "TypeScript",
-    "React/Next.js/Remix",
-    "Node.js",
-    "GraphQL",
-    "Relay",
-    "WebRTC",
+    "Data Science",
+    "Deep Learning",
+    "SQL",
+    "PyTorch",
+    "AI",
+    "Statistics",
+    "Programming",
   ],
   projects: [
     {
