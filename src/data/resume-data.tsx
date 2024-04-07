@@ -88,6 +88,7 @@ export const RESUME_DATA = {
     {
       company: "KPMG",
       link: "https://kpmg.com/es/es/home.html",
+      badges: [],
       title: "Strategy Consultant - ITGH",
       logo: ParabolLogo,
       start: "2022",
