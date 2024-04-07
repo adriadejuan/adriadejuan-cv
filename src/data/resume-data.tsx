@@ -48,7 +48,7 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "laSalle - Universitat Ramón Llull",
+      school: "laSalle - Universitat Ramon Llull",
       degree: "Master of Science - Data Science",
       start: "2023",
       end: "2024",
