@@ -25,9 +25,9 @@ export const RESUME_DATA = {
   location: "Barcelona, Spain, CET",
   locationLink: "https://www.google.com/maps/place/Barcelona",
   about:
-    "About TBC",
+    "Aspiring Data Scientist",
   summary:
-    "I am an ambitious Data Analyst in the making, with a robust educational background and more than two years of experience in public sector consulting, where Big Data initiatives have been a central component of my work. My academic journey is currently anchored at laSalle URL, where I am pursuing a Master's degree in Data Science—with a significant focus on Deep Learning—to further enhance my expertise. \n My objective is to harness the skills and knowledge I am acquiring, particularly in predictive modeling, to impact data-driven decision-making processes positively. I aim to contribute to the innovation and improvement of proprietary products within a dynamic organization. \n My tenure in public sector consulting has allowed me to cultivate not only sharp analytical skills but also robust communication and interpersonal abilities. Complementing my formal education, I have pursued and obtained multiple certifications in areas like digital marketing, Excel, Python, and Deep Learning. This continuous professional development reflects my dedication to adaptability and my commitment to staying at the forefront of technological advancements.",
+    "Aspiring Data Scientist with a solid academic foundation, passionate about leveraging AI and data to drive decision-making. Currently seeking opportunities to apply my skills in Deep Learning and predictive modeling to generate actionable insights and influence business outcomes with data-driven strategies.",
   avatarUrl: "https://media.licdn.com/dms/image/D4D03AQG0au-qTy-AZw/profile-displayphoto-shrink_800_800/0/1690399114062?e=1718236800&v=beta&t=dBAEryqYMtGxio8mGAzXp6xWcIMTgTeRTbQYHEP9QOs",
   personalWebsiteUrl: "https://www.google.es",
   contact: {
