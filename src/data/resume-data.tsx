@@ -86,7 +86,7 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "KPMG - ITGH Barcelona",
+      company: "KPMG ES - ITGH Barcelona",
       link: "https://kpmg.com/es/es/home.html",
       badges: [],
       title: "Strategy Consultant",
