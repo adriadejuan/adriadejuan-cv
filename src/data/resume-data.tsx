@@ -137,8 +137,24 @@ export const RESUME_DATA = {
       description: "Automate API data collection, data processing for KPI calculation and monthly report generation.",
       logo: ConsultlyLogo,
       link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
+        label: "CC eInvoicing Label",
+        href: "https://www.google.es/",
+      },
+      {
+      title: "Kaggle Competitions",
+      techStack: [
+        "Deep Learning",
+        "Forecasting",
+        "Machine Learning",
+        "EDA",
+        "Statistics",
+        "Data Preprocessing",
+      ],
+      description: "Participated in multiple Kaggle competitions.",
+      logo: ConsultlyLogo,
+      link: {
+        label: "Kaggle Label",
+        href: "https://www.kaggle.com/",
       },
     },
   ],
