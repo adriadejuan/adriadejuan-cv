@@ -127,16 +127,14 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Consultly",
+      title: "CC eInvoicing",
       techStack: [
-        "Side Project",
-        "TypeScript",
-        "Next.js",
-        "Vite",
-        "GraphQL",
-        "WebRTC",
+        "Big Data",
+        "Microsoft Azure",
+        "Data Factory",
+        "SQL Database",
       ],
-      description: "A platform to build and grow your online business",
+      description: "Automate API data collection, data processing for KPI calculation and monthly report generation.",
       logo: ConsultlyLogo,
       link: {
         label: "consultly.com",
