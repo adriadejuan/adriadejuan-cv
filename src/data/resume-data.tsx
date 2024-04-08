@@ -54,16 +54,22 @@ export const RESUME_DATA = {
       end: "2024",
     },
     {
+      school: "University of Warwick",
+      degree: "Bachelor of Science - Mathematics",
+      start: "2020",
+      end: "2021",
+    },
+    {
       school: "Universitat de Barcelona",
       degree: "Bachelor of Science - Mathematics",
       start: "2017",
       end: "2021",
     },
     {
-      school: "University of Warwick",
-      degree: "Bachelor of Science - Mathematics",
-      start: "2020",
-      end: "2021",
+      school: "Universitat de Girona",
+      degree: "Bachelor of Science - Computer Science",
+      start: "2016",
+      end: "2017",
     },
     {
       school: "OAK House British School",
@@ -76,12 +82,6 @@ export const RESUME_DATA = {
       degree: "Primary School",
       start: "2000",
       end: "2013",
-    },
-    {
-      school: "Universitat de Girona",
-      degree: "Bachelor of Science - Computer Science",
-      start: "2016",
-      end: "2017",
     },
   ],
   work: [
