@@ -86,10 +86,10 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "KPMG ES - ITGH Barcelona",
+      company: "Strategy Consultant",
       link: "https://kpmg.com/es/es/home.html",
       badges: [],
-      title: "Strategy Consultant",
+      title: "KPMG ES - ITGH Barcelona",
       logo: ParabolLogo,
       start: "2022",
       end: "Present",
@@ -97,10 +97,10 @@ export const RESUME_DATA = {
         "Job description TBC",
     },
     {
-      company: "Allianz Technology",
+      company: "Technical Support",
       link: "https://tech.allianz.com/en.html",
       badges: ["Internship"],
-      title: "Technical Support",
+      title: "Allianz Technology",
       logo: ClevertechLogo,
       start: "2021",
       end: "2021",
