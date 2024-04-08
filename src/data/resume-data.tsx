@@ -72,14 +72,14 @@ export const RESUME_DATA = {
       end: "2017",
     },
     {
-      school: "High School",
-      degree: "OAK House British School",
+      school: "OAK House British School",
+      degree: "High School",
       start: "2013",
       end: "2016",
     },
     {
-      school: "Primary School",
-      degree: "Saint George's School",
+      school: "Saint George's School",
+      degree: "Primary School",
       start: "2000",
       end: "2013",
     },
