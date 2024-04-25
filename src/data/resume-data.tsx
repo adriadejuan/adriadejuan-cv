@@ -17,7 +17,7 @@ import {
   TastyCloudLogo,
   YearProgressLogo,
 } from "@/images/logos";
-import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
+import { GitHubIcon, LinkedInIcon, KaggleIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Adrià de Juan García",
@@ -43,6 +43,11 @@ export const RESUME_DATA = {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/adriadejuan/",
         icon: LinkedInIcon,
+      },
+      {
+        name: "Kaggle",
+        url: "https://www.kaggle.com/adriadejuan",
+        icon: KaggleIcon,
       },
     ],
   },
