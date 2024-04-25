@@ -44,11 +44,6 @@ export const RESUME_DATA = {
         url: "https://www.linkedin.com/in/adriadejuan/",
         icon: LinkedInIcon,
       },
-      {
-        name: "Kaggle",
-        url: "https://www.kaggle.com/adriadejuan",
-        icon: KaggleIcon,
-      },
     ],
   },
   education: [
